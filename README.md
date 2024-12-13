@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/saurabhverma18/LeetCode/tree/master/0932-monotonic-array) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabhverma18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
