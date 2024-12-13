@@ -186,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
