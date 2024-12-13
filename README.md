@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/saurabhverma18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saurabhverma18/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhverma18/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,10 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saurabhverma18/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/saurabhverma18/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/saurabhverma18/LeetCode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
