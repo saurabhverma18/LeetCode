@@ -48,4 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabhverma18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saurabhverma18/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saurabhverma18/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
