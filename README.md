@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/saurabhverma18/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/saurabhverma18/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Bit Manipulation
 |  |
 | ------- |
