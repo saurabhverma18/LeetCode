@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saurabhverma18/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhverma18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saurabhverma18/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saurabhverma18/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/saurabhverma18/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saurabhverma18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/saurabhverma18/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
