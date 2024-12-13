@@ -12,4 +12,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/saurabhverma18/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/saurabhverma18/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/saurabhverma18/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/saurabhverma18/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
