@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2756-buy-two-chocolates](https://github.com/saurabhverma18/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saurabhverma18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/saurabhverma18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/saurabhverma18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
