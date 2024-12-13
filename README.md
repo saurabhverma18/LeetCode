@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saurabhverma18/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saurabhverma18/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Linked List
 |  |
 | ------- |
