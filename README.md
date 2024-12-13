@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/saurabhverma18/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saurabhverma18/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saurabhverma18/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/saurabhverma18/LeetCode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/saurabhverma18/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/saurabhverma18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saurabhverma18/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saurabhverma18/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
