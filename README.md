@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saurabhverma18/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saurabhverma18/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhverma18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -204,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1212-sequential-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
