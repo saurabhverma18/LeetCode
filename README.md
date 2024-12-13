@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/saurabhverma18/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saurabhverma18/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
