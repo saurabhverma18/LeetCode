@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saurabhverma18/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/saurabhverma18/LeetCode/tree/master/0344-reverse-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
