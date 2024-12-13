@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1950-sign-of-the-product-of-an-array](https://github.com/saurabhverma18/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saurabhverma18/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2634-minimum-common-value](https://github.com/saurabhverma18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/saurabhverma18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/saurabhverma18/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saurabhverma18/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/saurabhverma18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhverma18/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2634-minimum-common-value](https://github.com/saurabhverma18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
