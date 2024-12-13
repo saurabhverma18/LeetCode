@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/saurabhverma18/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saurabhverma18/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saurabhverma18/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/saurabhverma18/LeetCode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saurabhverma18/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/saurabhverma18/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
