@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/saurabhverma18/LeetCode/tree/master/0932-monotonic-array) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
