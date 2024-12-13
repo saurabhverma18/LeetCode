@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saurabhverma18/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/saurabhverma18/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/saurabhverma18/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
