@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/saurabhverma18/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saurabhverma18/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/saurabhverma18/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/saurabhverma18/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saurabhverma18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/saurabhverma18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhverma18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhverma18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
