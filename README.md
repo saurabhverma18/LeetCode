@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/saurabhverma18/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saurabhverma18/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |
