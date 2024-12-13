@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/saurabhverma18/LeetCode/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
