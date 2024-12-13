@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saurabhverma18/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/saurabhverma18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saurabhverma18/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/saurabhverma18/LeetCode/tree/master/0344-reverse-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhverma18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhverma18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhverma18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Counting
 |  |
 | ------- |
