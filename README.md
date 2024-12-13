@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saurabhverma18/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2634-minimum-common-value](https://github.com/saurabhverma18/LeetCode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/saurabhverma18/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/saurabhverma18/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Number Theory
 |  |
 | ------- |
