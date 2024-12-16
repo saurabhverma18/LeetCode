@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saurabhverma18/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saurabhverma18/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhverma18/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saurabhverma18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/saurabhverma18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhverma18/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/saurabhverma18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhverma18/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -233,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhverma18/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
