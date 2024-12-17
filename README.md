@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2300-construct-string-with-repeat-limit](https://github.com/saurabhverma18/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2634-minimum-common-value](https://github.com/saurabhverma18/LeetCode/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saurabhverma18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/saurabhverma18/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2300-construct-string-with-repeat-limit](https://github.com/saurabhverma18/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
 |  |
 | ------- |
@@ -200,12 +202,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2300-construct-string-with-repeat-limit](https://github.com/saurabhverma18/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2756-buy-two-chocolates](https://github.com/saurabhverma18/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurabhverma18/LeetCode/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/saurabhverma18/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2300-construct-string-with-repeat-limit](https://github.com/saurabhverma18/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saurabhverma18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
@@ -241,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/saurabhverma18/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhverma18/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
