@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saurabhverma18/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhverma18/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/saurabhverma18/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/saurabhverma18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saurabhverma18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/saurabhverma18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhverma18/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurabhverma18/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saurabhverma18/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |
