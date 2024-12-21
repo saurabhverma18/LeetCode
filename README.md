@@ -254,4 +254,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhverma18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhverma18/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhverma18/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
