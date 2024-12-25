@@ -257,9 +257,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saurabhverma18/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhverma18/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saurabhverma18/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhverma18/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saurabhverma18/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saurabhverma18/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
