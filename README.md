@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/saurabhverma18/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saurabhverma18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabhverma18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/saurabhverma18/LeetCode/tree/master/0494-target-sum) |
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/saurabhverma18/LeetCode/tree/master/0932-monotonic-array) |
 | [0985-bag-of-tokens](https://github.com/saurabhverma18/LeetCode/tree/master/0985-bag-of-tokens) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/saurabhverma18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhverma18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhverma18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/saurabhverma18/LeetCode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/saurabhverma18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack
@@ -272,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/saurabhverma18/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/saurabhverma18/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
