@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabhverma18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/saurabhverma18/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabhverma18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhverma18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabhverma18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saurabhverma18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhverma18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saurabhverma18/LeetCode/tree/master/0058-length-of-last-word) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabhverma18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saurabhverma18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saurabhverma18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhverma18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
