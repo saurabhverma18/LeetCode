@@ -27,7 +27,7 @@ class Solution {
             right[i] = best;
         }
         
-        // Find the maximum sum of three non-overlapping subarrays
+        
         int[] result = new int[3];
         int maxSum = 0;
         
