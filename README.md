@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/saurabhverma18/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saurabhverma18/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saurabhverma18/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saurabhverma18/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saurabhverma18/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saurabhverma18/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saurabhverma18/LeetCode/tree/master/0231-power-of-two) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/saurabhverma18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhverma18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saurabhverma18/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saurabhverma18/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/saurabhverma18/LeetCode/tree/master/0344-reverse-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -227,12 +229,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saurabhverma18/LeetCode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/saurabhverma18/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/saurabhverma18/LeetCode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/saurabhverma18/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saurabhverma18/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/saurabhverma18/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/saurabhverma18/LeetCode/tree/master/0898-transpose-matrix) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/saurabhverma18/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
