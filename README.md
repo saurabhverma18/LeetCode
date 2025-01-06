@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/saurabhverma18/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saurabhverma18/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saurabhverma18/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/saurabhverma18/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/saurabhverma18/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/saurabhverma18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/saurabhverma18/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/saurabhverma18/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saurabhverma18/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saurabhverma18/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
 |  |
@@ -289,4 +291,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/saurabhverma18/LeetCode/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saurabhverma18/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
